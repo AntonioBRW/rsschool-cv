@@ -1,28 +1,28 @@
-#**Anton Bahmetov**
+**Anton Bahmetov**
 
-##**Contact information:**
+**Contact information:**
  - Phone: +375291737997 
  - E-mail: AntonioBRW@yandex.ru 
  - Github: AntonioBRW 
  - Telegram: @AntonioBRW
 
-##**Briefly About Myself:**
+**Briefly About Myself:**
 I’m a engineer by education.I am 35 years old.I like to learn something new. believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.The main thing is to believe in yourself and not give up.
 
-##**Skills:**
+**Skills:**
  - AutoCAD
  - HTML5, CSS3
  - Git, GitHub
  - VS Code
  - JS
 
-##**Education**
+**Education**
  Belarusian state University of Transport (2019)
 
-##**Experience:**
+**Experience:**
 - Belarusian Railway (2018-present)
 
-##**Languages**
+**Languages**
 - English(A2-B1)
 - Russian- Native
 
