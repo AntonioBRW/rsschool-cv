@@ -1,0 +1,39 @@
+body {
+background-color: #eff9fa;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    text-align: center;
+}
+.avatar{
+    width: 300px;
+    height: 300px;
+}
+
+.header__title{
+    font-size: 28px;
+}
+
+.header__subtitle{
+    color:rgb(45, 133, 177)
+}
+
+main {
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.skills ol {
+list-style: none;
+}
+
+.ed__table {
+    border-collapse: collapse;
+    }
+ .ed__table th,
+ .ed__table th {
+    border: 1px solid black;
+    padding: 10px;
+ }
+ 
