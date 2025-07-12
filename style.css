@@ -24,7 +24,11 @@ main {
     text-align: center;
 }
 
-.skills ol {
+.contacs ol {
+    list-style: none;
+}
+
+.skills ul {
 list-style: none;
 }
 
@@ -36,4 +40,3 @@ list-style: none;
     border: 1px solid black;
     padding: 10px;
  }
- 

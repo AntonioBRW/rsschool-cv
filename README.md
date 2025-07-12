@@ -1,1 +1,1 @@
-(https://AntonioBRW.github.io/rsschool-cv/cv)
+(https://AntonioBRW.github.io/rsschool-cv/)
