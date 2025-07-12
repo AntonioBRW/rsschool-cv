@@ -19,3 +19,7 @@
 ## **Education**
  Belarusian state University of Transport 
 Courses: Code-Basics, Hexlet, JavaRush (HTML, CSS, JS)
+
+## **Languages**
+- English(A2-B1)
+- Russian (Native)
